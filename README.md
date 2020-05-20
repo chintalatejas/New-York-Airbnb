@@ -7,7 +7,7 @@ This dataset contains the following columns:
 2.name-The name of the room.                           
 3.host_id-The unique id of the host.                          
 4.host_name-The name of the host.                       
-5.neighbourhood_group- The name of the neighbourhood where the room has been listed.
+5.neighbourhood_group- The name of the neighbourhood where the room has been listed.<br>
    1.Manhattan
    2.Brooklyn
    3.Queens
@@ -16,7 +16,7 @@ This dataset contains the following columns:
 6.neighbourhood-The name of the borough.                  
 7.latitude- The latitude coordinate of the room.                        
 8.longitude- The longitude coordinate of the room.                        
-9.room_type- The type of room present.
+9.room_type- The type of room present.<br>
     1. Private Room
     2. Entire home or Apartment
     3. Shared Room
