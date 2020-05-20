@@ -8,7 +8,7 @@ This dataset contains the following columns:<br>
 3.host_id-The unique id of the host.                          
 4.host_name-The name of the host.                       
 5.neighbourhood_group- The name of the neighbourhood where the room has been listed.<br>
-a.Manhattan
+a.Manhattan<br>
    b.Brooklyn<br>
     c.Queens<br>
     d.Staten Island<br>
