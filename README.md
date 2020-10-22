@@ -1,6 +1,5 @@
 # New-York-Airbnb
-This dataset describes the listing activity and metrics of the rooms listed on Airbnb New York for the year of 2019.I have taken this dataset from Kaggle.
-https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+This dataset describes the listing activity and metrics of the rooms listed on Airbnb New York for the year of 2019.I have taken this dataset from [Kaggle.](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 This dataset contains the following columns:<br>
 1.id-Contains the id of the room listed.<br>
